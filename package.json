@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "checkmongose",
+  "version": "1.0.0",
+  "main": "schema.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
